@@ -93,8 +93,3 @@ S/MIME encrypts the content
 - Synchronize to our Automobiles
 
 - Synchronize to the Cloud
-
-# Printers and Multifunction Devices
-
-1. Processing - print job comes in and is stored on local memory
-2.

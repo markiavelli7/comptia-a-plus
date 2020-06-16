@@ -51,3 +51,50 @@ Come with a SIM card
 * Set up a VPN
 
 - Know the server IP address
+
+# Mobile Devices and Email
+
+E-mail setup on smartphones always means adding an e-mail account
+
+Traditional e-mails require SMTP and an IMAP/POP server address and account passwords
+
+Most traditional e-mail servers use encrypted port numbers
+
+To set up email, we need to know the Fully Qualified Domain Name (FQDN) of our SMTP server.
+
+Username and password to sign onto that SMTP server
+
+Port number for SMTP (usually port 25)
+
+FQDN for the IMAP server
+
+Username and password
+
+Port Number for IMAP
+
+### Encrypted Versions
+
+**SMTP**: Port 465 or 587
+**IMAP**: Port 993
+**POP3**: Port 995
+
+With these ports, we are getting Point-to-Point Encryption(P2PE)
+
+### Secure/Multipurpose Internet Mail Extensions (S/MIME)
+
+Whenever we attach a file to an email, we are using something called a MIME. MIME takes a binary file, and takes every 8 bits and turns it into an ASCII code.
+
+S/MIME encrypts the content
+
+# Mobile Synchronization
+
+- Synchronize to the Desktop
+
+- Synchronize to our Automobiles
+
+- Synchronize to the Cloud
+
+# Printers and Multifunction Devices
+
+1. Processing - print job comes in and is stored on local memory
+2.
